@@ -10,7 +10,7 @@ Installing this is as simple as git cloning the repository. There are no externa
 ```bash
 git clone https://github.com/AlyElsharkawy/Basic-Computer-Assembler-Python
 ```
-Inside the newly created Basic-Computer-Assembler-Python folder, you will find `assembler.py` along with three files called `rri.txt`, `mri.txt`, and `ioi.txt`. `assembler.py` is the file that you will need to import into your projects to use.
+Inside the newly created Basic-Computer-Assembler-Python folder, you will find `assembler.py` along with three files called `rri.txt`, `mri.txt`, and `ioi.txt`. The file you will need to import into your projects is called `assembler.py`
 
 ## Usage:
 First, import `assembler.py`. Then, create you must screate an instance of the `Assembler` class. The `Assembler` class takes 4 parameters in this order:
