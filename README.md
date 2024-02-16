@@ -3,7 +3,7 @@ A simple 2 phase assembler created as a project for my computer organization cla
 
 ## Features:
 1) Error Handling: syntax errors are detected by the program and reported as an error
-2) Stability: The assembler has been extensively tested and is guaranteed to produce correct assembly
+2) Stability: The assembler has been extensively tested and is guaranteed to produce correct assembly without tracebacks and runtime errors
 
 ## Installation:
 Installing this is as simple as git cloning the repository. There are no external dependenices.
